@@ -9,3 +9,5 @@
 **Используемые технологии**
 
 Сайт написан на html 5 и css. Создан с использованием свойства transition, директивы media, методологии БЭМ, файловой структуры Nested, grid и flex выравнивания.
+
+[Ссылка GitHub Pages](https://ssempusha.github.io/russian-travel/)
